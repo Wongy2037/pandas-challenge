@@ -1,0 +1,19 @@
+The raw data include total of 15 schools and 39,170 students. The average reading score of total students (81.87) which is higher than the average math score (78.98). Morover, the passing rate of reading score (85.80%) has a higher rate than the math score (74.98 % ),the overall passing rate is 65.17%, which indicate that students are better in reading than math.
+
+The school summary showed that from 15 schools 7 at the district level and 8 at the charter level. The ranged of the number of students are between 427 (Holden High School) to 4976 (Bailey High School). The Result have shown that district schools have more students than charter schools.
+
+Bailey High School has the maximum budget ($3,124,928.00) and Holden High School has the lower budget ($248,087.00). Even though Bailey High School has the highest budget, it is not in the top performing schools, Which indicates that they should have improve their quality regarding to the budget they have.
+
+Regarding budget per student, Huang High School has a higher budget per student ($655.000), and Wilson High School has a lower budget per student($578.00). Huang High School is one of the bottom performing school, which also has the same situation as the Bailey High School
+
+The total district schools budget($17,347,923.00) is higher than Charter schools budget ($7,301,505.00), But in the Budget Per Student charter schools ($4,796.00) is greater than district schools ($4,505.00)
+
+The Result show that the overall of reading and math scores Charter schools have a better score than District schools. In the overall percentage passing Cabrera High School has the maximum passing percentage rate ( 91.33 %), and Rodriguez High School has a lower percentage of (52.98) passing.
+
+Grade 11 students at Holden High School holds a higher average Math score (85) comparing all the schools and grades. Holden High School grade 12 students have a higher average reading score (84.698795).
+
+Charter Schools dominated the top 5 schools in overall passing rate and District dominated the bottom 5.
+
+Larger school size and larger school spending doesn't represent efficiency. 
+
+The lower spending ranges (per student: $585-$615, <$585) and size (1000-2000, <1000) yield better results.
